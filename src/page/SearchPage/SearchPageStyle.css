@@ -1,0 +1,12 @@
+.content .searching{
+    width: 100%;
+    display:flex;
+    justify-content: center;
+}
+.content .searching input {
+    width: 50%;
+}
+
+.content{
+    margin:20px;
+}
