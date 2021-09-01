@@ -2,7 +2,6 @@
 import { BookService } from './state/BookServiceState';
 import { useState, useEffect } from "react"
 import {Book} from '../models/Book';
-import { response } from 'c:/users/kendricko adrio/appdata/local/microsoft/typescript/4.3/node_modules/@types/express';
 
 export interface Books{
     data : Book[],
